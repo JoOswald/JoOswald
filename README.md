@@ -1,9 +1,7 @@
-[<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  ](https://github.com/JoOswald/JoOswald/blob/main/header.png)
+<img src="https://github.com/JoOswald/JoOswald/blob/main/header.png" alt="banner Jo Oswald">
   
 
-### <div align="center">I'm Jo, new to coding and just starting out as a junior software developer</div>  
+### <div align="center">I'm new to coding and just starting out as a junior software developer</div>  
   
 
 - 🔭 I’m currently working on Proclaim  
