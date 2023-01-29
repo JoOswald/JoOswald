@@ -1,4 +1,4 @@
-<img src="https://github.com/JoOswald/JoOswald/blob/main/header.png" alt="banner Jo Oswald">
+<img src="https://github.com/JoOswald/JoOswald/blob/main/Jo%20Oswald.png" alt="banner Jo Oswald">
   
 
 ### <div align="center">I'm new to coding and just starting out as a junior software developer</div>  
