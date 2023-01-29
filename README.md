@@ -1,6 +1,6 @@
-<div align="center">
+[<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>  ](https://github.com/JoOswald/JoOswald/blob/main/header.png)
   
 
 ### <div align="center">I'm Jo, new to coding and just starting out as a junior software developer</div>  
