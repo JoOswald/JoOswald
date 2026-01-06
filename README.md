@@ -1,13 +1,13 @@
 <img src="https://github.com/JoOswald/JoOswald/blob/main/Jo%20Oswald.png" alt="banner Jo Oswald">
   
 
-### <div align="center">I'm new to coding and just starting out as a junior software developer</div>  
+### <div align="center">Senior Software Developer and Data analyst</div>  
   
 
-- 🔭 I’m currently working on Proclaim  
+- 🔭 Proclaim front end development, Excel, PowerBI, SQL, Python  
   
 
-- 🌱 I've just completed the HyperionDev Data Science Bootcamp  
+- 🌱 I completed the HyperionDev Data Science Bootcamp  
   
 
 <br/>  
